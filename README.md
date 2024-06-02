@@ -2,48 +2,49 @@
 
 ## Description
 
-This movie library web application is designed to provide users with a seamless experience in discovering, organizing, and managing their favorite movies. It offers user authentication, search functionality powered by the OMDB API, and the ability to create and manage custom movie lists. Users can create both public and private lists, allowing for personalized organization and sharing options.
+This web application for a movie library aims to offer users a smooth experience in discovering, organizing, and managing their favorite films. It features user authentication, a search function powered by the OMDB API, and tools for creating and managing custom movie lists. Users can create lists that are either public or private, providing options for personalized organization and sharing.
 
 ## Features
 
-- User authentication system for Sign In/Sign Up functionality.
-- Home screen with a search option to discover and view movie details.
-- Creation and management of custom movie lists, similar to YouTube playlists.
-- Support for both public and private lists, providing flexibility in sharing preferences.
-- Utilization of the OMDB API for efficient movie search functionality.
-- A visually appealing layout inspired by popular websites/applications, ensuring an engaging user experience.
+- A user authentication system that includes Sign In and Sign Up capabilities.
+- A home screen featuring a search option for discovering and viewing movie details.
+- Tools for creating and managing custom movie lists, akin to YouTube playlists.
+- Support for both public and private lists, offering flexible sharing options.
+- Efficient movie search functionality powered by the OMDB API.
+- An attractive layout inspired by popular websites and applications, ensuring an engaging user experience.
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js
-- Database: MongoDB
-- External API: OMDB API
+Frontend: HTML, CSS, and JavaScript
+Backend: Node.js
+Database: MongoDB
+External API: OMDB API
 
 ## Getting Started
+To run this application locally, follow these instructions:
 
-To run this application locally, follow these steps:
+1. Ensure Node.js and MongoDB are installed on your development environment.
+2. Clone the repository from GitHub: https://github.com/3triveni/Assignment-for-fasal/edit/main/README.md
 
-1. Set up your development environment with Node.js and MongoDB installed.
-2. Clone the repository from GitHub: https://github.com/swapnildubey29/Movie-Library-/tree/master
+3. Go to the project directory.
+4. Install the necessary dependencies with npm: npm i
 
-3. Navigate to the project directory.
-4. Install the dependencies using npm: npm i
+5. Set up environment variables for MongoDB connection and API keys.
+6. Start the application locally with: npm run dev
 
-5. Configure environment variables for MongoDB connection and API keys.
-6. Run the application locally using: npm run dev
-
-7. Access the application in your web browser at `http://localhost:8000`.
+7. Open your web browser and navigate to `http://localhost:8000` to access the application.
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+Contributions are encouraged! To contribute to the project, please follow these steps:
 
 1. Fork the repository.
-2. Create your feature branch:
-5. Submit a pull request.
+2. Create a new branch for your feature.
+3. Make your changes.
+4. Commit your changes.
+5. Open a pull request.
 
 ## Acknowledgements
 
-- This project was Assignment of Fasal.
-- Special thanks to OMDB for providing the API used for movie search functionality.
+- This project was an assignment for Fasal.
+- Special appreciation to OMDB for supplying the API used for the movie search functionality.
