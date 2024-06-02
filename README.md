@@ -24,7 +24,7 @@ External API: OMDB API
 To run this application locally, follow these instructions:
 
 1. Ensure Node.js and MongoDB are installed on your development environment.
-2. Clone the repository from GitHub: https://github.com/3triveni/Assignment-for-fasal/edit/main/README.md
+2. Clone the repository from GitHub: https://github.com/3triveni/Assignment-for-fasal/tree/main
 
 3. Go to the project directory.
 4. Install the necessary dependencies with npm: npm i
